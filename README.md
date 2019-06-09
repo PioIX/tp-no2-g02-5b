@@ -3,3 +3,6 @@ usando Visual Basic 2015, cada grupo debera desarrollar una aplicacion de escrit
 
 Requisitos para el tp, todos tienen que generar su propio branch editar algo hacer el pullrequest,( resolviendo los merge conflicts)
 No sirve para nada este github choto, arreglamelo Feli que quiero Promocionar <3
+
+
+whatsapp web >>>>>>> GitHub
