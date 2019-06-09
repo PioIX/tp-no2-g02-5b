@@ -33,6 +33,25 @@
                 Boton(i).Text = "0" & i
             End If
             X = X + 100
+            AddHandler Boton(i).Click, AddressOf Button_Click
         Next
+    End Sub
+
+    Private Sub Button_Click(ByVal sender As Object, ByVal e As EventArgs)
+        Numero = Integer.Parse(sender.tag)
+        If Borrado = False Then
+
+            If Boton(Numero).BackColor = Color.White Then
+                If NumeroSeleccionado = "" Then
+                    NumeroSeleccionado = NumeroSeleccionado + Convert.ToString(Numero)
+                    Boton(Numero).BackColor = Color.Yellow
+                Else NumeroSeleccionado = NumeroSeleccionado + "; " + Convert.ToString(Numero)
+                    Boton(Numero).BackColor = Color.Yellow
+                End If
+            End If
+            Me.Hide()
+        Else
+            Boton(Numero).BackColor = Color.White
+        End If
     End Sub
 End Class

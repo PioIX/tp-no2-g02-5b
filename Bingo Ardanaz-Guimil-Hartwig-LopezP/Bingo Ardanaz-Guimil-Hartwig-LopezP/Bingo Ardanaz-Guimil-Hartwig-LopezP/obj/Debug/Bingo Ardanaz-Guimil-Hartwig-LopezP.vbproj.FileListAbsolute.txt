@@ -11,3 +11,7 @@ D:\Manuel\Escritorio\tp-no2-g02-5b-Manuel-LopezP\Bingo Ardanaz-Guimil-Hartwig-Lo
 D:\Manuel\Escritorio\tp-no2-g02-5b-Manuel-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\obj\Debug\Bingo Ardanaz-Guimil-Hartwig-LopezP.exe
 D:\Manuel\Escritorio\tp-no2-g02-5b-Manuel-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\obj\Debug\Bingo Ardanaz-Guimil-Hartwig-LopezP.xml
 D:\Manuel\Escritorio\tp-no2-g02-5b-Manuel-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\obj\Debug\Bingo Ardanaz-Guimil-Hartwig-LopezP.pdb
+C:\Users\Administrador\Desktop\tp-no2-g02-5b-master\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\bin\Debug\Bingo Ardanaz-Guimil-Hartwig-LopezP.exe.config
+C:\Users\Administrador\Desktop\tp-no2-g02-5b-master\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\obj\Debug\Bingo Ardanaz-Guimil-Hartwig-LopezP.exe
+C:\Users\Administrador\Desktop\tp-no2-g02-5b-master\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\obj\Debug\Bingo Ardanaz-Guimil-Hartwig-LopezP.xml
+C:\Users\Administrador\Desktop\tp-no2-g02-5b-master\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\obj\Debug\Bingo Ardanaz-Guimil-Hartwig-LopezP.pdb
