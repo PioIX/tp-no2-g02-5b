@@ -78,5 +78,23 @@
             Me.Hide()
             frmBingo.ShowDialog()
         End If
+        If e.KeyCode = Keys.W Then
+            For Y = 1 To 90
+                If Boton(Y).BackColor = Color.Yellow Then
+                    Boton(Y).BackColor = Color.White
+                End If
+            Next
+            NumeroSeleccionado = ""
+        End If
+        If e.KeyCode = Keys.D Then
+            j = 1 - j
+            If j = 0 Then
+                Borrado = True
+                lblBorrar.Visible = True
+            Else
+                Borrado = False
+                lblBorrar.Visible = False
+            End If
+        End If
     End Sub
 End Class
