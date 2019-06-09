@@ -1,5 +1,0 @@
-Ejecutar el Archivo: Ajustes VB6 Portable.exe y Aplicar las Configuraciones que se ajusten a sus necesidades.
-
-Nota 1: Los Archivos .exe deben Ejecutarse como Administrador en Windows Vista y Superiores.
-Nota 2: En Windows Vista y Superiores VB6.exe debe Ejecutarse como Administrador, Compatibilidad con Windows XP SP2 y Deshabilitar la Composición del Escritorio.
-Nota 3: Para Modo de Compatibilidad Seleccione el Archivo: VB6.exe y haga click derecho > Propiedades > Pestaña Compatibilidad.
