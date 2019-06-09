@@ -34,6 +34,7 @@
             End If
             X = X + 100
             AddHandler Boton(i).Click, AddressOf Button_Click
+            AddHandler Boton(i).KeyDown, AddressOf frmTablero_KeyDown
         Next
     End Sub
     Private Sub Button_Click(ByVal sender As Object, ByVal e As EventArgs)
@@ -52,6 +53,14 @@
             Me.Hide()
         Else
             Boton(Numero).BackColor = Color.White
+        End If
+    End Sub
+
+    Private Sub frmTablero_KeyDown(sender As Object, e As KeyEventArgs) Handles Me.KeyDown
+        Dim tecla As New System.Windows.Forms.Keys()
+        If e.KeyCode = Keys.Z Then
+            Me.Hide()
+            frmSalir.ShowDialog()
         End If
     End Sub
 End Class

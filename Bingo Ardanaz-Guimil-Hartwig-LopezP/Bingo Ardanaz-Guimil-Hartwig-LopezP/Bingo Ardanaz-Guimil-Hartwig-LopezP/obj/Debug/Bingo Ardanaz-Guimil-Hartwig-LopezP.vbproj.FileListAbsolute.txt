@@ -36,3 +36,17 @@ D:\Manuel\Escritorio\ale\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimi
 D:\Manuel\Escritorio\ale\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\obj\Debug\Bingo Ardanaz-Guimil-Hartwig-LopezP.exe
 D:\Manuel\Escritorio\ale\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\obj\Debug\Bingo Ardanaz-Guimil-Hartwig-LopezP.xml
 D:\Manuel\Escritorio\ale\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\obj\Debug\Bingo Ardanaz-Guimil-Hartwig-LopezP.pdb
+D:\Manuel\Escritorio\ale - copia\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\bin\Debug\Bingo Ardanaz-Guimil-Hartwig-LopezP.exe.config
+D:\Manuel\Escritorio\ale - copia\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\bin\Debug\Bingo Ardanaz-Guimil-Hartwig-LopezP.exe
+D:\Manuel\Escritorio\ale - copia\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\bin\Debug\Bingo Ardanaz-Guimil-Hartwig-LopezP.pdb
+D:\Manuel\Escritorio\ale - copia\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\bin\Debug\Bingo Ardanaz-Guimil-Hartwig-LopezP.xml
+D:\Manuel\Escritorio\ale - copia\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\obj\Debug\Bingo Ardanaz-Guimil-Hartwig-LopezP.vbprojAssemblyReference.cache
+D:\Manuel\Escritorio\ale - copia\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\obj\Debug\Bingo_Ardanaz_Guimil_Hartwig_LopezP.frmNumero.resources
+D:\Manuel\Escritorio\ale - copia\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\obj\Debug\Bingo_Ardanaz_Guimil_Hartwig_LopezP.frmSalir.resources
+D:\Manuel\Escritorio\ale - copia\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\obj\Debug\Bingo_Ardanaz_Guimil_Hartwig_LopezP.frmTablero.resources
+D:\Manuel\Escritorio\ale - copia\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\obj\Debug\Bingo_Ardanaz_Guimil_Hartwig_LopezP.Resources.resources
+D:\Manuel\Escritorio\ale - copia\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\obj\Debug\Bingo Ardanaz-Guimil-Hartwig-LopezP.vbproj.GenerateResource.cache
+D:\Manuel\Escritorio\ale - copia\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\obj\Debug\Bingo Ardanaz-Guimil-Hartwig-LopezP.vbproj.CoreCompileInputs.cache
+D:\Manuel\Escritorio\ale - copia\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\obj\Debug\Bingo Ardanaz-Guimil-Hartwig-LopezP.exe
+D:\Manuel\Escritorio\ale - copia\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\obj\Debug\Bingo Ardanaz-Guimil-Hartwig-LopezP.xml
+D:\Manuel\Escritorio\ale - copia\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\obj\Debug\Bingo Ardanaz-Guimil-Hartwig-LopezP.pdb
