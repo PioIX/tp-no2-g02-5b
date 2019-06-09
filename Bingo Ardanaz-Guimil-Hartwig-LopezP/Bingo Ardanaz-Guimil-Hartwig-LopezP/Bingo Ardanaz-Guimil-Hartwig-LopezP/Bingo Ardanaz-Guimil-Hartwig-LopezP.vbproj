@@ -78,6 +78,12 @@
     <Compile Include="frmNumero.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="frmOrden.Designer.vb">
+      <DependentUpon>frmOrden.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmOrden.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmSalir.Designer.vb">
       <DependentUpon>frmSalir.vb</DependentUpon>
     </Compile>
@@ -111,6 +117,9 @@
   <ItemGroup>
     <EmbeddedResource Include="frmNumero.resx">
       <DependentUpon>frmNumero.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOrden.resx">
+      <DependentUpon>frmOrden.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmSalir.resx">
       <DependentUpon>frmSalir.vb</DependentUpon>

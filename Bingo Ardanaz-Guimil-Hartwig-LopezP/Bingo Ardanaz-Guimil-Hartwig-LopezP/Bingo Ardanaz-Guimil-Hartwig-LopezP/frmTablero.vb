@@ -62,5 +62,9 @@
             Me.Hide()
             frmSalir.ShowDialog()
         End If
+        If e.KeyCode = Keys.O Then
+            Me.Hide()
+            frmOrden.ShowDialog()
+        End If
     End Sub
 End Class
