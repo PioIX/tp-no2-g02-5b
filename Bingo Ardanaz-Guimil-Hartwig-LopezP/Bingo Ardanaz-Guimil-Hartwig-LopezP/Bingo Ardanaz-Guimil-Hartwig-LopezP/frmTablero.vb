@@ -36,7 +36,6 @@
             AddHandler Boton(i).Click, AddressOf Button_Click
         Next
     End Sub
-
     Private Sub Button_Click(ByVal sender As Object, ByVal e As EventArgs)
         Numero = Integer.Parse(sender.tag)
         If Borrado = False Then
@@ -49,6 +48,7 @@
                     Boton(Numero).BackColor = Color.Yellow
                 End If
             End If
+            frmNumero.Show()
             Me.Hide()
         Else
             Boton(Numero).BackColor = Color.White
