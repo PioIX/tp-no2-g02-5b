@@ -1,1 +1,2 @@
 c:\users\fe\documents\visual studio 2015\Projects\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\bin\Debug\Bingo Ardanaz-Guimil-Hartwig-LopezP.exe.config
+C:\Users\Fe\Documents\GitHub\tp-no2-g02-5b\Bingo Ardanaz-Guimil-Hartwig-LopezP\Bingo Ardanaz-Guimil-Hartwig-LopezP\bin\Debug\Bingo Ardanaz-Guimil-Hartwig-LopezP.exe.config
