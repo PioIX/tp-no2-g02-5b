@@ -66,5 +66,9 @@
             Me.Hide()
             frmOrden.ShowDialog()
         End If
+        If e.KeyCode = Keys.V Then
+            Me.Hide()
+            frmVenta.ShowDialog()
+        End If
     End Sub
 End Class
