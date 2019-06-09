@@ -70,5 +70,13 @@
             Me.Hide()
             frmVenta.ShowDialog()
         End If
+        If e.KeyCode = Keys.L Then
+            Me.Hide()
+            frmLinea.ShowDialog()
+        End If
+        If e.KeyCode = Keys.B Then
+            Me.Hide()
+            frmBingo.ShowDialog()
+        End If
     End Sub
 End Class

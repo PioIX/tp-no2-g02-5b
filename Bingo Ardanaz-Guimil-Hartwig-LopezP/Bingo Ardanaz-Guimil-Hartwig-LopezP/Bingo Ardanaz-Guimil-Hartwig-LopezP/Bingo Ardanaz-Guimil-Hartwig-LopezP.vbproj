@@ -72,6 +72,18 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="frmBingo.Designer.vb">
+      <DependentUpon>frmBingo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBingo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLinea.Designer.vb">
+      <DependentUpon>frmLinea.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLinea.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="frmNumero.Designer.vb">
       <DependentUpon>frmNumero.vb</DependentUpon>
     </Compile>
@@ -121,6 +133,12 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="frmBingo.resx">
+      <DependentUpon>frmBingo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLinea.resx">
+      <DependentUpon>frmLinea.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmNumero.resx">
       <DependentUpon>frmNumero.vb</DependentUpon>
     </EmbeddedResource>
